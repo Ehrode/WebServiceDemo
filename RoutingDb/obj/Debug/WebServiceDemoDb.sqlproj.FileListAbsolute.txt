@@ -1,9 +1,0 @@
-C:\Users\bucke\source\repos\RoutingApi\RoutingDb\bin\Debug\WebServiceDemoDb.dacpac
-C:\Users\bucke\source\repos\RoutingApi\RoutingDb\bin\Debug\RoutingDb.dll
-C:\Users\bucke\source\repos\RoutingApi\RoutingDb\bin\Debug\RoutingDb.pdb
-C:\Users\bucke\source\repos\RoutingApi\RoutingDb\obj\Debug\RoutingDb.dll
-C:\Users\bucke\source\repos\RoutingApi\RoutingDb\obj\Debug\RoutingDb.pdb
-C:\Users\bucke\source\repos\RoutingApi\RoutingDb\obj\Debug\Model.xml
-C:\Users\bucke\source\repos\RoutingApi\RoutingDb\obj\Debug\refactor.xml
-C:\Users\bucke\source\repos\RoutingApi\RoutingDb\obj\Debug\postdeploy.sql
-C:\Users\bucke\source\repos\RoutingApi\RoutingDb\obj\Debug\predeploy.sql
