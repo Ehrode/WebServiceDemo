@@ -1,0 +1,5 @@
+C:\Users\bucke\source\repos\RoutingApi\RoutingDb\bin\Release\RoutingDb.dacpac
+C:\Users\bucke\source\repos\RoutingApi\RoutingDb\bin\Release\RoutingDb.dll
+C:\Users\bucke\source\repos\RoutingApi\RoutingDb\bin\Release\RoutingDb.pdb
+C:\Users\bucke\source\repos\RoutingApi\RoutingDb\obj\Release\RoutingDb.dll
+C:\Users\bucke\source\repos\RoutingApi\RoutingDb\obj\Release\RoutingDb.pdb
